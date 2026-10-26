@@ -1,0 +1,8 @@
+{
+  "name": "Remix WanderNest - Andaman Travel Agency Copy \u0026 Website",
+  "description": "High-converting website copy and luxury travel portal for WanderNest, premier Andaman \u0026 Nicobar tour specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
